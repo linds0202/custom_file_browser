@@ -6,11 +6,15 @@ Problem: Nuke only allows selection of files/sequences from a single directory. 
 
 Solution: File browser tool with a QFileSystem tree view/model on the left and a custom tree view model on the right that allows artists to select files/sequences from multiple directories.
 
-# The custom tool also allows:
-#  - Toggle between sequence and file view
-#  - Filter by text
-#  - Filter by file extension
-#  - Filter by text & file extension combo
-#  - Drag and drop selected nodes in Node Graph
-#  - “Add nodes” button to place selected nodes into the Node Graph
+The custom tool also allows:
++  - Toggle between sequence and file view
++  - Filter by text
++  - Filter by file extension
++  - Filter by text & file extension combo
++  - Drag and drop selected nodes in Node Graph
++  - “Add nodes” button to place selected nodes into the Node Graph
+
+
+
+https://github.com/linds0202/custom_file_browser/assets/80363105/59561339-d4da-4176-a9ad-a5a9554fbf7c
 
